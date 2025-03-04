@@ -1,4 +1,4 @@
-# Simple View Counter
+~$/rs95767 # Simple View Counter
 
 <p>
  <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server">
